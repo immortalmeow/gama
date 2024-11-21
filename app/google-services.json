@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "294231538739",
+    "project_id": "fit-move-ai",
+    "storage_bucket": "fit-move-ai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294231538739:android:9c06e60f7c26f594473746",
+        "android_client_info": {
+          "package_name": "com.android.fitmoveai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294231538739-ouql8u5dsqjq5f8nqacn01km7kmcsirm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.fitmoveai",
+            "certificate_hash": "ec8f1701f7afef79d37e70695acbf2c8dfe49bc7"
+          }
+        },
+        {
+          "client_id": "294231538739-ppn4ksc0plkcerd41bd0910j4j8hdl3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasffPYX8jD7hW7NSI1BWV3mLWengYJXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294231538739-ppn4ksc0plkcerd41bd0910j4j8hdl3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

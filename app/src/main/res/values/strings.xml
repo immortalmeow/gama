@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">GAMA</string>
+    <string name="hintEmail">Email</string>
+    <string name="errorEmail">Masukkan email dengan benar</string>
+    <string name="mulai">Mulai</string>
+    <string name="hey_there">Halo,</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="forgot_password">Forgot your password?</string>
+    <string name="create_account">Daftar Akun</string>
+
+    <string name="dont_have_account">
+        Belum punya akun?
+        <font color="#19A7CE"><b>Daftar</b></font>
+    </string>
+    <string name="have_account">
+        Already have an account?
+        <font color="#19A7CE"><b>Login</b></font>
+    </string>
+    <string name="or">Or</string>
+    <string name="gender_men">gender men</string>
+    <string name="fitassistai">FitAssistAI</string>
+    <string name="gender_women">gender women</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="view_detail">View Detail</string>
+
+    <string name="web_client_id">294231538739-ppn4ksc0plkcerd41bd0910j4j8hdl3n.apps.googleusercontent.com</string>
+
+    <string name="history">History</string>
+    <string name="squat_jump">Squat</string>
+    <string name="_20_times">20 times</string>
+    <string name="jump_squat">Squat</string>
+    <string name="description">Description</string>
+    <string name="detail_squat">Squats are bodyweight exercises characterized by leaping directly upwards at the top of the movement. With proper form, jump squats can be a great way to burn calories and improve strength in both your upper body and lower body.</string>
+    <string name="step_squat">How To Do Squat</string>
+    <string name="title_step_squat1">Starting Position</string>
+    <string name="dtl_step_squat1">Begin by standing with your feet shoulder-width apart, toes pointing slightly outward. Keep your back straight, chest lifted, and engage your core muscles.</string>
+    <string name="title_step_squat2">Squatting</string>
+    <string name="dtl_step_squat2">Lower your body into a squat position by bending at the hips and knees. Push your hips back as if you are sitting into a chair, while keeping your weight on your heels. Aim to lower your thighs parallel to the ground or slightly below.</string>
+    <string name="title_step_squat3">Explosive Jump</string>
+    <string name="dtl_step_squat3">Once you\'ve reached the squat position, swiftly and explosively jump up as high as you can. Extend your legs fully and engage your core and glute muscles to generate power.</string>
+    <string name="title_step_squat4">Landing</string>
+    <string name="dtl_step_squat4">As you land, focus on maintaining a soft landing by bending your knees and hips to absorb the impact. Land with your knees slightly bent to cushion the landing.</string>
+    <string name="title_step_squat5">Repeat</string>
+    <string name="dt_step_squat5">Immediately after landing, go back into the squat position and repeat the exercise for the desired number of repetitions.</string>
+    <string name="detail_pushup">Push-ups are an exercise in which a person, keeping a prone position, with the hands palms down under the shoulders, the balls of the feet on the ground, and the back straight, pushes the body up and lets it down by an alternate straightening and bending of the arms.</string>
+    <string name="step_pushup">How To Do Push Up</string>
+    <string name="title_step_pushup1">Starting Position</string>
+    <string name="dtl_step_pushup1">Begin by positioning yourself face down on the floor or a mat. Place your hands slightly wider than shoulder-width apart, fingers pointing forward. Extend your legs straight behind you, toes on the ground, and engage your core muscles.</string>
+    <string name="title_step_pushup2">Hand and Arm Placement</string>
+    <string name="dtl_step_pushup2">Make sure your hands are directly under your shoulders, and your arms are fully extended. Your palms should be flat on the ground, pressing into the floor.</string>
+    <string name="title_step_pushup3">Lowering Phase</string>
+    <string name="dtl_step_pushup3">Lower your body towards the ground by bending your elbows. Keep your body in a straight line from head to heels. Avoid arching or sagging your lower back.</string>
+    <string name="title_step_pushup4">Depth of Push Up</string>
+    <string name="dtl_step_pushup4">Lower yourself until your chest is a few inches above the ground. Your elbows should be at approximately a 45-degree angle to your body.</string>
+    <string name="title_step_pushup5">Pushing Phase</string>
+    <string name="dtl_step_pushup5">Push through your palms, straightening your elbows and returning to the starting position. Keep your body straight throughout the movement, avoiding any sagging or excessive arching.</string>
+    <string name="title_step_pushup6">Repeat</string>
+    <string name="dtl_step_pushup6">Complete the desired number of repetitions, maintaining proper form and control throughout the exercise.</string>
+    <string name="dumbbell">Dumbbell</string>
+    <string name="detail_dumbbell">The bicep curl with dumbbells is an exercise that targets the biceps muscles of the upper arm. It involves flexing the elbow joint to lift dumbbells towards the shoulders while keeping the upper arms stationary. The exercise primarily isolates the biceps and helps develop strength, size, and definition in the upper arm muscles.</string>
+    <string name="step_dumbbell">How To Do Dumbbell Workout</string>
+    <string name="title_step_dumbbell1">Starting Position</string>
+    <string name="dtl_step_dumbbell1">Stand upright with a dumbbell in each hand, arms fully extended down by your sides. Keep your feet shoulder-width apart, your back straight, and your core engaged.</string>
+    <string name="title_step_dumbbell2">Gripping the Dumbbells</string>
+    <string name="dtl_step_dumbbell2">Grasp the dumbbells with an underhand grip (palms facing upward). Your grip should be firm, with your hands placed slightly wider than shoulder-width apart.</string>
+    <string name="title_step_dumbbell3">Curling Phase</string>
+    <string name="dtl_step_dumbbell3">Keeping your upper arms stationary, exhale and curl the dumbbells towards your shoulders. As you lift the dumbbells, focus on contracting your biceps and avoid any swinging or using momentum to lift the weights. Continue lifting until the dumbbells are at shoulder level, or you feel a good contraction in your biceps. Squeeze your biceps at the top of the movement to maximize the muscle engagement.</string>
+    <string name="title_step_dumbbell4">Lowering Phase</string>
+    <string name="dtl_step_dumbbell4">Inhale and slowly lower the dumbbells back down to the starting position, with your arms fully extended. Maintain control throughout the lowering phase, resisting the urge to let the weights drop quickly.</string>
+    <string name="title_step_dumbbell5">Repeat</string>
+    <string name="dtl_step_dumbbell5">Repeat the curling and lowering phases for the desired number of repetitions. Focus on maintaining proper form, control, and a slow and controlled tempo throughout the exercise.</string>
+    <string name="_200_reps">200 Reps</string>
+
+    <string name="sit_up">Sit Up</string>
+    <string name="step_sit_up">How To Do Sit Up</string>
+    <string name="detail_situp">A sit-up is an exercise that targets the abdominal muscles, particularly the rectus abdominis, which is located at the front of the abdomen. This exercise involves lifting the upper body from a lying position to a sitting position, while keeping the feet on the floor. This movement helps strengthen the core muscles, improve body stability, and enhance posture. Sit-ups also engage the hip and lower back muscles, providing a more comprehensive workout for the core area of the body.</string>    <string name="title_step_situp1">Starting Position</string>
+    <string name="dtl_step_situp1">Lie flat on your back with your knees bent at 90 degrees, feet flat on the floor. Place your hands across your chest or behind your head, ensuring not to pull on your neck. Engage your core and keep your feet hip-width apart..</string>
+
+    <string name="title_step_situp2">Engage Your Core</string>
+    <string name="dtl_step_situp2">Tighten your abdominal muscles by pulling your belly button toward your spine. This core engagement helps stabilize your body and prepares you for the movement.</string>
+
+    <string name="title_step_situp3">Lift Your Upper Body</string>
+    <string name="dtl_step_situp3">Slowly lift your head, shoulders, and chest off the floor using your abs. Keep your lower back pressed into the ground and your feet firmly planted.</string>
+
+    <string name="title_step_situp4">Reach the Top Position</string>
+    <string name="dtl_step_situp4">Continue rising until your chest is near your knees. Pause briefly at the top, ensuring your abs are fully contracted, while keeping your back straight and shoulders relaxed.</string>
+
+    <string name="title_step_situp5">Repeat</string>
+    <string name="dtl_step_situp">Repeat the curling and lowering phases for the desired number of repetitions. Focus on maintaining proper form, control, and a slow and controlled tempo throughout the exercise.</string>
+
+    <string name="push_up">Push Up</string>
+    <string name="times">05:00 Minute</string>
+    <string name="keluarApp">Logout</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_does_not_matched">Password does not matched</string>
+    <string name="fields_cannot_be_empty">Fields cannot be empty</string>
+    <string name="edit_profile">Edit Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="hint_password">Password</string>
+    <string name="error_password">Please Enter Minimum 8 Character</string>
+</resources>
